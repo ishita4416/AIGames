@@ -1,6 +1,0 @@
-argparse
-torch >= 1.0.0
-selenium
-pillow
-numpy
-opencv-python
